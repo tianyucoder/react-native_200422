@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import {Text,StatusBar,View,StyleSheet,SafeAreaView} from 'react-native'
-import Content from './components/02_Image'
+import Content from './components/10_SectionList_test'
 // import Button from './components/05_Todos'
 
 export default class App extends Component {
