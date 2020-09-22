@@ -24,7 +24,7 @@ export default class Demo extends Component {
 				newsList:[{id:newsList.length+1,title:'新闻'+(newsList.length+1)},...newsList],
 				isLoading:false
 			})
-		},3000)
+		},500)
 	}
 
 	render() {
